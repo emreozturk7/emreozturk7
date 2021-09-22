@@ -1,6 +1,8 @@
-## 👋 Hi there 
-#### 🔭 I’m currently working on Flutter
+###  Hi, I'm Emre 👋 🧑‍💻
+●  I’m currently working on Flutter 🔭
 
+![Github stats 1](https://github-readme-stats.vercel.app/api?username=emreozturk7&show_icons=true&theme=gradient) 
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=emreozturk7&show_icons=true&theme=radical)
 
 <!--
 **emreozturk7/emreozturk7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
