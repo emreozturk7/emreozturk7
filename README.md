@@ -1,5 +1,6 @@
 ###  Hi, I'm Emre 👋
 ●  I’m currently working on Flutter 🔭
+
 ●  I’m currently learning on Django 🌱
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=emreozturk7&show_icons=true&theme=radical)
