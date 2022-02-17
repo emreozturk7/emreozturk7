@@ -6,7 +6,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emreozturk7" alt="emreozturk7" /></a> </p>
 
 <p align="center">
-  - 📫 How to reach me <a href="ozturkemre7@hotmail.com">ozturkemre7@hotmail.com</a>
+  - 📫 How to reach me <a href="mailto:ozturkemre7@hotmail.com">ozturkemre7@hotmail.com</a>
 </p>
 
 
