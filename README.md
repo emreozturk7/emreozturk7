@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emre</h1>
-<h3 align="center">Hello, I'm a software engineering student and I'm working on front-end development. Here you can find my projects and contact me. Welcome to my world :)</h3>
+<h3 align="center">Hello, I'm a software engineer and I'm working on front-end development. Here you can find my projects and contact me. Welcome to my world :)</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=emreozturk7&label=Profile%20views&color=0e75b6&style=flat" alt="emreozturk7" /> </p>
 
