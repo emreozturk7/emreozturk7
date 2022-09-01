@@ -3,10 +3,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=emreozturk7&label=Profile%20views&color=0e75b6&style=flat" alt="emreozturk7" /> </p>
 
-<div align="center">
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=emreozturk7&show_icons=true&locale=en&layout=compact"     alt="emreozturk7" /></p>
-</div>
-
 <p align="center">
   - 📫 How to reach me <a href="mailto:ozturkemre7@hotmail.com">ozturkemre7@hotmail.com</a>
 </p>
